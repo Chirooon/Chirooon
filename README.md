@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 14 year old student from germany
 --------------------------------
 
-I started coding with python when i was 12 years old with python im now learing html css js
+I started coding when i was 12 years old with python im now learing html css js
 
 * 🌍  I'm based in North Rhine-Westphalia Germany
 

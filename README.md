@@ -2,7 +2,7 @@
 
 <h3 align="center">14 year old student from Germany.
   
-I started coding when i was 12 years old with python im now learing Html CSS JS</h3>
+I started coding when i was 12 years old with python now learing Html CSS JS</h3>
 
 - 🌱 I’m currently learning **Learning Html,css,js**
 

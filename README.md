@@ -10,7 +10,7 @@ I started coding when i was 12 years old with python now learing Html CSS JS</h3
 
 - 💬 Ask me about **My life**
 
-- 📫 How to reach me per discord **https://discord.com/users/chiron6750**
+- 📫 How to reach me per discord **[https://discord.com/users/chiron6750](https://discord.com/users/792468382083448853)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

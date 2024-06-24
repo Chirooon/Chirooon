@@ -8,7 +8,7 @@ I started coding when i was 12 years old with python now learing Html CSS JS</h3
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chirooon](https://github.com/Chirooon)
 
-- 💬 Ask me about **My life**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me per discord **[https://discord.com/users/chiron6750](https://discord.com/users/792468382083448853)**
 

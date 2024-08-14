@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chiron</h1> 
 
 <h3 align="center">15 year old student from Germany.
+
   
 I started coding when i was 12 years old with python now learing Html CSS JS</h3>
 
-- 🌱 I’m currently learning **Learning Html,css,js**
+- 🌱 I’m currently learning **Learning Html,css,js,batch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chirooon](https://github.com/Chirooon)
 

@@ -5,7 +5,7 @@
   
 I started coding when i was 12 years old with python now learing Html CSS JS</h3>
 
-- 🌱 I’m currently learning **Learning Html,css,js,batch**
+- 🌱 I’m currently learning **Learning Html,css,js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chirooon](https://github.com/Chirooon)
 

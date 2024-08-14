@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chiron</h1> 
 
-<h3 align="center">14 year old student from Germany.
+<h3 align="center">15 year old student from Germany.
   
 I started coding when i was 12 years old with python now learing Html CSS JS</h3>
 

@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning: Python,Batch<br>💬 Ask me about: Anything<br>⚡ Fun fact: Im only 15 years old
+🌱 I’m currently learning: Python,Batch<br>💬 Ask me about: Anything<br>⚡ Fun fact: Im only 16 years old
+    My favorite Website i coded: https://shopify-detector.netlify.app/
 
 
 ## 🌐 Socials:

@@ -1,28 +1,38 @@
-# Felix (Chiron)
+<div align="center">
+  <a href="https://x.com/felixkex" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="100" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/chiron6750" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/Chiroooon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="50" alt="telegram logo"  />
+  </a>
+</div>
 
-16-year-old self-taught developer.  
-Currently learning **Python** & **Batch**.  
-Favorite project: [Shopify Detector](https://shopify-detector.netlify.app/)  
+###
 
----
+<div align="center">
+  <img height="300" src="https://i.imgur.com/Tkwveqe.gif"  />
+</div>
 
-## Socials
-[Discord](https://discord.com/users/chiron6750) • [Instagram](https://instagram.com/felix.kex) • [TikTok](https://tiktok.com/@felix.kex) • [Twitch](https://twitch.tv/chiron_de) • [YouTube](https://youtube.com/@@chiron6799) • [CodePen](https://codepen.io/Chirooon)
+###
 
----
+<h2 align="center">Hello, im Chiroon and i code stuff...<br>Contact me per the listed social medias!<br><br>Check out my work!</h2>
 
-## Tech Stack
-- HTML / JavaScript  
-- Python / Batch / PowerShell / Shell Script  
-- Netlify (deployments)
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirooon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chirooon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="100" alt="languages graph"  />
+</div>
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Chirooon&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirooon&theme=github_dark_dimmed&hide_border=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirooon&theme=github_dark_dimmed&hide_border=false&layout=compact)
+###
 
----
+<div align="center">
+  <a href="https://open.spotify.com/user/msg8brl56c8pa0msj16gy10ex">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=msg8brl56c8pa0msj16gy10ex&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
-![Visits](https://visitcount.itsvg.in/api?id=Chirooon&icon=6&color=8)
+###
